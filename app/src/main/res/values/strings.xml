@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MoVaKa</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_repassword">Re-enter password</string>
+    <string name="hint_firstname">First name</string>
+    <string name="hint_lastname">Last name</string>
+    <string name="hint_alternatephone">Alternate person Number</string>
+    <string name="hint_deviceidp1">Device id A</string>
+    <string name="hint_deviceidp2">Device id B</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="firstname">First name</string>
+    <string name="lastname"> Last name</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+</resources>
